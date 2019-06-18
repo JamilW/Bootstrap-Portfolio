@@ -8,7 +8,8 @@ Bootstrap Portfolio
 
     * About
 
-    ![BOOTABOUT.PNG](./images/bootabout.png)
+    ![bootabout](https://user-images.githubusercontent.com/43798753/59726449-af955c00-91ff-11e9-8bed-2abd90495e73.png)
+
     
     * Portfolio
 
@@ -16,4 +17,4 @@ Bootstrap Portfolio
     
     * Contact
 
-    ![BOOTCONTACT.PNG](../images/bootcontact.png)
+    ![bootcontact](https://user-images.githubusercontent.com/43798753/59726446-ab693e80-91ff-11e9-8aa8-734bc1044fd9.png)
