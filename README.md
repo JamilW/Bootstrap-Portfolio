@@ -2,7 +2,7 @@
 
 Bootstrap Portfolio
 
-* Portfolio example project re-done using only Bootstrap with HTML and CSS.
+* Example portfolio project re-done using only Bootstrap with HTML and CSS.
 
 * Portfolio includes the following pages:
 
