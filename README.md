@@ -8,7 +8,7 @@ Bootstrap Portfolio
 
     * About
 
-    ![BOOTABOUT.PNG](../images/bootabout.png)
+    ![BOOTABOUT.PNG](./images/bootabout.png)
     
     * Portfolio
 
