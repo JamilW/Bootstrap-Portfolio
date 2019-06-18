@@ -12,7 +12,7 @@ Bootstrap Portfolio
     
     * Portfolio
 
-    ![BOOTPORTFOLIO.PNG](../images/bootportfolio.png)
+    ![bootportfolio](https://user-images.githubusercontent.com/43798753/59726400-7957dc80-91ff-11e9-8f25-7f0881725389.png)
     
     * Contact
 
